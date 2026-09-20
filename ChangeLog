@@ -18,3 +18,4 @@
 - Documented Mass Collaboration Labs' education, laboratory, and research and development activities.
 - Added organization and project links for the DynaCore ecosystem, including the QB Networks, Masscollabs Services, Procyberian Systems Distribution, and Mass Collaboration Labs websites.
 - Added the DynaCore copyright and GNU Affero General Public License v3 notice to `index.html` as an HTML comment.
+- Linked the DynaCore name in the `index.html` copyright notice to the project's GitHub repository.
