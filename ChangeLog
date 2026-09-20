@@ -1,0 +1,20 @@
+# Change Log
+
+## 2026-09-20
+
+- Added a DynaCore Communities single-page directory that presents DynaCore as a bridge between open, collaborative technology communities.
+- Added links to QB Networks, Masscollabs Services, Procyberian Systems Distribution, Mass Collaboration Labs, DynaCore, and hwpplayer1.
+- Added concise descriptions for each listed community and project.
+- Added semantic navigation, descriptive link text, and a labeled community-links region for a clearer browsing experience.
+- Added a dark visual theme with high-contrast text, mint accent colors, bordered content framing, and readable serif typography.
+- Added responsive behavior that changes the community list to a single-column layout on narrow screens and adapts the main frame to the viewport.
+- Added a footer with the 2026-2027 DynaCore copyright notice and a link to the English GNU Affero General Public License v3.0.
+- Renamed the project documentation from `README` to `README.md`.
+- Rewrote the README in US English with a detailed description of DynaCore's purpose, organizational structure, and collaboration model.
+- Documented DynaCore's role in developing ethical guidelines, shared principles, and technology protocols.
+- Documented QB Networks' responsibility for information security and infrastructure management.
+- Documented Masscollabs Services' work on self-hosted services, internet technologies, and telecommunications.
+- Documented Procyberian Systems Distribution's software development and free operating system work.
+- Documented Mass Collaboration Labs' education, laboratory, and research and development activities.
+- Added organization and project links for the DynaCore ecosystem, including the QB Networks, Masscollabs Services, Procyberian Systems Distribution, and Mass Collaboration Labs websites.
+- Added the DynaCore copyright and GNU Affero General Public License v3 notice to `index.html` as an HTML comment.
