@@ -2,6 +2,20 @@
 
 ## 2026-09-20
 
+- Rebuilt the website as a responsive DynaCore community directory with separate English and Turkish pages.
+- Added English and Turkish home pages and localized pages for QB Networks, Masscollabs Services, Procyberian Systems Distribution, and Mass Collaboration Labs.
+- Added direct language links so each English page opens its matching `.tr.html` page and each Turkish page opens its English counterpart.
+- Added Turkish translations for the DynaCore ecosystem, free software freedoms, community descriptions, participation details, and navigation.
+- Added DynaCore's role in developing open communication protocols and collaboration processes, including ActivityPub, Matrix, and Mastodon networks.
+- Added the four essential freedoms of free software with a link to the Free Software Foundation's definition.
+- Added right-aligned license information to every page with GNU AGPLv3-or-later, Source Code/Kaynak Kod, and BDFL links.
+- Linked Source Code and Kaynak Kod to the DynaCore GitHub repository and added a browser-viewable JavaScript source link.
+- Added `script.js` and shared `style.css` source files with AGPL copyright notices.
+- Added the AGPL copyright and license notice as comments to all HTML, JavaScript, and CSS source files.
+- Improved Turkish wording for self-hosted services, community audiences, software development, and laboratory work.
+
+## 2026-09-20
+
 - Added a DynaCore Communities single-page directory that presents DynaCore as a bridge between open, collaborative technology communities.
 - Added links to QB Networks, Masscollabs Services, Procyberian Systems Distribution, Mass Collaboration Labs, DynaCore, and hwpplayer1.
 - Added concise descriptions for each listed community and project.

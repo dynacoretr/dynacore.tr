@@ -14,6 +14,26 @@ main areas of work in one place. DynaCore is more than a directory of projects;
 it is a coordination center that helps establish shared principles, technical
 protocols, and channels for collaboration.
 
+### Website features
+
+The website is a responsive static site with complete English and Turkish page
+sets. English pages link to their Turkish `.tr.html` counterparts, and Turkish
+pages link back to the corresponding English pages. The localized pages cover
+the DynaCore home page and the four core communities: QB Networks, Masscollabs
+Services, Procyberian Systems Distribution, and Mass Collaboration Labs.
+
+The home pages describe DynaCore's work on open communication protocols and
+collaboration processes, including ActivityPub, Matrix, and Mastodon networks.
+They also present the four essential freedoms of free software and link to the
+Free Software Foundation's definition.
+
+Every page includes a footer with the GNU AGPLv3-or-later license, a link to
+the complete source repository, and a link to the BDFL website. The English
+footer uses `Source Code` and the Turkish footer uses `Kaynak Kod`. The
+browser-viewable `script.js` file is linked as `JavaScript` on English pages
+and `JavaScript Kodu` on Turkish pages. HTML, CSS, and JavaScript source files
+include the AGPL copyright and license notice as comments.
+
 ## Organizational structure
 
 The four core organizations in the DynaCore ecosystem have different but
